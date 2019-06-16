@@ -1,0 +1,1 @@
+{"uuid":"711d3b8b-8a94-4697-8085-984cacb8e630","name":"com.capgemini.rest.tests.initial.PutApiTest.beforeMethod","description":"","start":1560671358049,"stop":1560671358679,"children":["940de9d9-9d5e-4d51-b8e9-447020d8ffbb"],"befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","start":1560671358049,"stop":1560671358679}]}

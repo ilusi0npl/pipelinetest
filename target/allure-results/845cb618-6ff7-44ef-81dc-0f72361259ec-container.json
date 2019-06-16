@@ -1,0 +1,1 @@
+{"uuid":"845cb618-6ff7-44ef-81dc-0f72361259ec","name":"com.capgemini.tests.TestBase.afterTest","description":"","start":1560671353084,"stop":1560671353731,"children":["d6478d03-6383-4f7d-840d-9b78f9c6c6b5"],"afters":[{"name":"afterTest","status":"passed","stage":"finished","description":"","start":1560671353084,"stop":1560671353731}]}

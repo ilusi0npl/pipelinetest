@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 46.826 s <<< FAILURE! - in TestSuite
+asCustomerSearchForArticle(com.capgemini.tests.search.SearchArticlesTest)  Time elapsed: 5.845 s  <<< FAILURE!
+java.lang.AssertionError: Article name should be Dress expected [Dress] but found [Printed Summer Dress]
+	at com.capgemini.tests.search.SearchArticlesTest.asCustomerSearchForArticle(SearchArticlesTest.java:16)
+
+getApiTest(com.capgemini.rest.tests.initial.GetApiTest)  Time elapsed: 0.675 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at com.capgemini.rest.tests.initial.GetApiTest.getApiTest(GetApiTest.java:23)
+

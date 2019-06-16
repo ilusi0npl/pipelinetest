@@ -1,0 +1,1 @@
+{"uuid":"f7e58b66-0633-4c96-95a5-fd2dbe7328d8","name":"com.capgemini.tests.TestBase.beforeTest","description":"","start":1560671332556,"stop":1560671337223,"children":["b717672e-cb33-4652-99ae-739ae92a4c08"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","start":1560671332556,"stop":1560671337223}]}

@@ -1,0 +1,1 @@
+{"uuid":"8b4b751c-68c3-4d0a-9230-ef4e58045272","name":"com.capgemini.rest.tests.better.CreatePetTests.beforeMethod","description":"","start":1560671353736,"stop":1560671353738,"children":["f060e287-7f7c-48d9-b325-9da994a17514"],"befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","start":1560671353736,"stop":1560671353738}]}
